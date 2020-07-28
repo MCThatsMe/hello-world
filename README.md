@@ -1,2 +1,2 @@
 # hello-world
-First Git project
+MCThatsMe is me with the initals of MC.
